@@ -1,6 +1,6 @@
 # UK Gender Pay Gap Analysis (2020–2025)
 
-**Data Source:** [UK Government Gender Pay Gap Reporting Service](https://gender-pay-gap.service.gov.uk/)  
+**Data Source:** [https://gender-pay-gap.service.gov.uk/viewing/download/)  
 **Tools Used:** Power BI, DAX, Power Query, Excel
 
 ---
