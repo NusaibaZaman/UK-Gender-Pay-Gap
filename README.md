@@ -15,11 +15,11 @@ The dataset is transformed and modelled in Power BI using a star schema, enablin
 ## Key Insights
 | Metric | Value | Interpretation |
 |--------|--------|----------------|
-| **Average Median Hourly Pay Gap** | **11.84 %** | Women earn  around 12 % less than men on median hourly pay. |
-| **Average Mean Hourly Pay Gap** | **12.95 %** | Greater Mean than median is due to high earners, widening the gap. |
-| **Average Median Bonus Pay Gap** | *value varies yearly* | Bonuses amplify pay inequality. |
-| **YoY Change (Median Hourly)** | **+0.42 %** | Only minor progress year to year. |
-| **Employers Reporting** | **≈ 13,370** | Total employers that submitted valid data. |
+| **Average Median Hourly Pay Gap** | 11.84 % | Women earn  around 12 % less than men on median hourly pay. |
+| **Average Mean Hourly Pay Gap** | 12.95 % | Greater Mean than median is due to high earners, widening the gap. |
+| **Average Median Bonus Pay Gap** | value varies yearly | Bonuses amplify pay inequality. |
+| **YoY Change (Median Hourly)** | +0.42 % | Only minor progress year to year. |
+| **Employers Reporting** | ≈ 13,370 | Total employers that submitted valid data. |
 
 ---
 ## Summary
